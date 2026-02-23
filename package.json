@@ -1,9 +1,5 @@
 {
   "name": "refill-backend-system",
   "private": true,
-  "version": "1.0.0",
-  "scripts": {
-    "dev": "vercel dev",
-    "start": "node server.js"
-  }
+  "version": "1.0.0"
 }
